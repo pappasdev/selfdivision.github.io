@@ -1,4 +1,4 @@
-# selfdivision.github.io
+# pappasdev.github.io
 
 This is the root that links various projects on GitHub. Some of these will also be hosted on my [official site](https://gpappas.dev) if they're portfolio worthy.
 
